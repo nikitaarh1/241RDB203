@@ -1,3 +1,5 @@
+# 241RDB203 Nikita Arhipovs
+
 class Node:
     def __init__(self, value):
         self.value = value
